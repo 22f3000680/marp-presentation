@@ -34,18 +34,6 @@ _Page number should show below_ 👇
 
 ---
 
-<style>
-  blockquote {
-    font-style: italic;
-  }
-  section {
-    background-image: url('./images/background.jpg');
-    background-repeat: no-repeat;
-    background-position: top 20px right 20px;
-    background-size: 80px auto;
-  }
-</style>
-
 ## Background Image
 
 ---
