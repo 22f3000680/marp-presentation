@@ -34,13 +34,19 @@ _Page number should show below_ 👇
 
 ---
 
-<!-- _backgroundImage: url('./images/background.jpg') -->
+<style>
+  blockquote {
+    font-style: italic;
+  }
+  section {
+    background-image: url('./images/background.jpg');
+    background-repeat: no-repeat;
+    background-position: top 20px right 20px;
+    background-size: 80px auto;
+  }
+</style>
 
-## Background Image Slide
-
-This slide has a full background image using Marp directives.
-
-Text can still go on top!
+## Background Image
 
 ---
 
