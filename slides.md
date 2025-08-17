@@ -34,11 +34,13 @@ _Page number should show below_ 👇
 
 ---
 
-<!-- _backgroundImage: url('https://source.unsplash.com/1600x900/?technology,abstract') -->
+<!-- _backgroundImage: url('./images/background.jpg') -->
 
 ## Background Image Slide
 
 This slide has a full background image using Marp directives.
+
+Text can still go on top!
 
 ---
 
