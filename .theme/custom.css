@@ -1,0 +1,11 @@
+/* .theme/custom.css */
+@import 'default';
+
+section {
+  background-color: #f8f8ff;
+}
+
+h1, h2, h3 {
+  font-family: 'Segoe UI', sans-serif;
+  color: #004488;
+}
