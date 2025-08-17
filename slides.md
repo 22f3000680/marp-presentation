@@ -33,8 +33,11 @@ This slide uses a custom font and header/footer.
 _Page number should show below_ 👇
 
 ---
+<!-- _backgroundImage: url('https://source.unsplash.com/1600x900/?technology,abstract') -->
 
-## Background Image
+## Slide with a Background Image
+
+Text is readable on top of this image!
 
 ---
 
